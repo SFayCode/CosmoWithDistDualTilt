@@ -1,0 +1,17 @@
+# downloaded data (fetch with figures/download_data.sh)
+figures/data/
+
+# chain backends and derived arrays
+figures/bk_*.h5
+figures/flat_*.npy
+figures/tomo.npz
+
+# generated outputs
+figures/*.pdf
+figures/*.png
+figures/results.json
+figures/tables_generated.tex
+
+__pycache__/
+*.pyc
+.DS_Store
