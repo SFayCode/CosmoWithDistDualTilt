@@ -1,5 +1,4 @@
 # CosmoWithDistDualTilt
-
 Analysis code and data for
 
 > **A few-percent distance-duality tilt can absorb the DESI evolving-dark-energy signal**
